@@ -12,17 +12,12 @@
 	 mvn clean install
 3 - Rode o projeto com o comando
 
-	 mvn spring-project:run
+	 mvn spring-boot:run
 
 A aplicação estará disponivel na porta [8080](localhost:8080)
 
 
 	
 	É necessário que você configure no arquivo application.properties, a sua configuração do banco
-	
 
-# spring-boot-app
-
-
-Para rodar utilize: mvn spring-boot:run
 	
