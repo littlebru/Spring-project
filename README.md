@@ -1,3 +1,7 @@
+![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mineda/spring-boot-app)
+
+
+
 # Como configurar e rodar o projeto
 
 1 - Clonar o repositório
@@ -16,9 +20,6 @@ A aplicação estará disponivel na porta [8080](localhost:8080)
 	
 	É necessário que você configure no arquivo application.properties, a sua configuração do banco
 	
-	
-	
-	[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mineda/spring-boot-app)
 
 # spring-boot-app
 
